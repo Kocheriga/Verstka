@@ -8,7 +8,7 @@ header.header
             .nav.nav2
               - var items = ['About us', 'Products', 'pricing', 'contact', 'news']
               each item in items
-                  a.nav= " " + " "+ item
+                  a.nav= " "+ item
         ._1: menu1.logo__picture(src="images/menu1.png")
         ._2: menu2.logo__picture(src="images/menu2.png")
         ._3: menu3.logo__picture(src="images/menu3.png")
@@ -29,5 +29,12 @@ header.header
         .signup
             a Signup Now & Get one month premium membership for free!
     .button
-       // .button1
+        .button1
             a GET ME MEMBERSHIP FOR FREE
+        .YBT: btn.g(src="images/YBT.png")
+    .comment
+       .comment-text
+            a Quick & friendly support
+            br
+            a & I love the products.
+       .comment-space: space.logo__picture(src="images/Com.png")

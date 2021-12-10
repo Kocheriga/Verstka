@@ -1,0 +1,33 @@
+header.header
+    .header__menuleft
+        .container
+            .UISUMO
+               a UISUMO
+    .header__menuright
+        .container
+            .nav.nav2
+              - var items = ['About us', 'Products', 'pricing', 'contact', 'news']
+              each item in items
+                  a.nav= " " + " "+ item
+        ._1: menu1.logo__picture(src="images/menu1.png")
+        ._2: menu2.logo__picture(src="images/menu2.png")
+        ._3: menu3.logo__picture(src="images/menu3.png")
+        .Bg: menu4.logo__picture(src="images/menu.png")
+    .container2
+        ._Point1: point1.logo__picture(src="images/Point9.png")
+        ._Point2: point2.logo__picture(src="images/Point9.png")
+        ._Point3: point3.logo__picture(src="images/Point9.png")
+        ._Point4: point4.logo__picture(src="images/Point9.png")
+        ._Point5: point5.logo__picture(src="images/Point9.png")
+        ._Point6: point6.logo__picture(src="images/Point9.png")
+        ._Point7: point7.logo__picture(src="images/Point9.png")
+        ._Point8: point9.logo__picture(src="images/Point9.png")
+        ._Point9: point9.logo__picture(src="images/Point9.png")
+    .container3
+        .company
+            a Your Next Product Development Company
+        .signup
+            a Signup Now & Get one month premium membership for free!
+    .button
+       // .button1
+            a GET ME MEMBERSHIP FOR FREE

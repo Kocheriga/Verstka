@@ -1,0 +1,173 @@
+.product-categories{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 360;
+}
+.container4{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 353;
+}
+.laravel-text{
+  font-size: 13px;
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
+  position: absolute;
+  left: 532px;
+  top: 882.5px;
+  z-index: 352;
+}
+.laravel__picture{
+  background: url("../../images/laravel.png");
+  position: absolute;
+  left: 525px;
+  top: 925px;
+  width: 70px;
+  height: 51px;
+  z-index: 351;
+}
+.laravel-background{
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 485px;
+  top: 860px;
+  width: 150px;
+  height: 145px;
+  z-index: 350;
+}
+.wordpress-text{
+  font-size: 13px;
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
+  position: absolute;
+  left: 719.344px;
+  top: 882.5px;
+  z-index: 347;
+}
+.wordpress__picture{
+  background: url("../../images/wordpress.png");
+  position: absolute;
+  left: 662px;
+  top: 836px;
+  width: 149px;
+  height: 145px;
+  z-index: 346;
+}
+.wordpress-background{
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 685px;
+  top: 860px;
+  width: 150px;
+  height: 145px;
+  z-index: 345;
+}
+.angularjs-text{
+  font-size: 13px;
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
+  position: absolute;
+  left: 922.344px;
+  top: 883.5px;
+  z-index: 342;
+}
+.angularjs__picture{
+  background: url("../../images/angularjs.png");
+  position: absolute;
+  left: 922px;
+  top: 912px;
+  width: 76px;
+  height: 76px;
+  z-index: 341;
+}
+.angularjs-background{
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.08);
+  position: absolute;
+  left: 885px;
+  top: 860px;
+  width: 150px;
+  height: 145px;
+  z-index: 340;
+}
+
+.ionic-text{
+  font-size: 13px;
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: right;
+  position: absolute;
+  left: 1341px;
+  top: 882.5px;
+  z-index: 336;
+}
+.ionic__picture{
+  background: url("../../images/ionic.png");
+  position: absolute;
+  left: 1328px;
+  top: 919px;
+  width: 62px;
+  height: 62px;
+  z-index: 335;
+}
+.ionic-background{
+    border-radius: 3px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    left: 1285px;
+    top: 860px;
+    width: 150px;
+    height: 145px;
+    z-index: 331;
+}
+.node_js-text{
+  font-size: 13px;
+  color: rgb(34, 34, 34);
+  text-transform: uppercase;
+  line-height: 2;
+  text-align: center;
+  position: absolute;
+  left: 1134.529px;
+  top: 883.5px;
+  z-index: 339;
+}
+.node_js-picture{
+  background-image: url("../../images/nodejs.png");
+  position: absolute;
+  left: 1074px;
+  top: 848px;
+  width: 149px;
+  height: 145px;
+  z-index: 338;
+  box-shadow: 0px 0px 0px 0px rgba(255, 255, 255, 255);
+}
+.node_js-background{
+  border-radius: 3px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
+  position: absolute;
+  left: 1085px;
+  top: 860px;
+  width: 150px;
+  height: 145px;
+  z-index: 337;
+}

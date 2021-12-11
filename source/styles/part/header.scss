@@ -242,7 +242,6 @@
 }
 .comment-text{
   font-size: 15px;
-  color: rgb(68, 68, 68);
   line-height: 1.333;
   text-align: left;
   position: absolute;
@@ -250,15 +249,15 @@
   top: 458.037px;
   z-index: 323;
   margin: 0;
+  color: #696969;
 }
-.comment-space{
-  background-color: rgb(255, 255, 255);
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.15);
+
+.logo__picture1{
   position: absolute;
-  left: 343px;
-  top: 440px;
-  width: 220px;
-  height: 78px;
+  left: 320px;
+  top: 420px;
+  width: 250px;
+  height: 120px;
   z-index: 286;
   border-radius: 5px;
 }

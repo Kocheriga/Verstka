@@ -1,0 +1,175 @@
+.services{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 245;
+}
+.services-parts{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 244;
+}
+.services-part1{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 243;
+}
+.services-part1-img{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 242;
+}
+.services-part1-img__picture{
+  background-image: url("../../images/light-bulb.png");
+  position: absolute;
+  left: 540px;
+  top: 1990px;
+  width: 40px;
+  height: 59px;
+  z-index: 241;
+}
+.services-part1-text1{
+  font-size: 18px;
+  color: rgb(34, 34, 34);
+  line-height: 1.944;
+  text-align: center;
+  position: absolute;
+  left: 480px;
+  top: 2069.545px;
+  z-index: 240;
+}
+.services-part1-text2{
+  font-size: 14px;
+  color: rgb(119, 119, 119);
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 384.593px;
+  top: 2106.365px;
+  width: 330px;
+  height: 62px;
+  z-index: 239;
+}
+.services-part2-img{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 238;
+}
+.services-part2-img__picture{
+  background-image: url("../../images/speedometer.png");
+  position: absolute;
+  left: 933px;
+  top: 1990px;
+  width: 59px;
+  height: 58px;
+  z-index: 237;
+}
+.services-part2{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 236;
+}
+.services-part2-text1{
+  font-size: 18px;
+  color: rgb(34, 34, 34);
+  line-height: 1.944;
+  text-align: center;
+  position: absolute;
+  left: 898px;
+  top: 2069.545px;
+  z-index: 235;
+}
+.services-part2-text2{
+  font-size: 14px;
+  color: rgb(119, 119, 119);
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 785.37px;
+  top: 2106.365px;
+  width: 330px;
+  height: 62px;
+  z-index: 234;
+}
+.services-part3-img{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 233;
+}
+.services-part3-img__picture{
+  background-image: url("../../images/headphones.png");
+  position: absolute;
+  left: 1315px;
+  top: 1990px;
+  width: 58px;
+  height: 51px;
+  z-index: 232;
+}
+.services-part3{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 100%;
+  z-index: 231;
+}
+.services-part3-text1{
+  font-size: 18px;
+  color: rgb(34, 34, 34);
+  line-height: 1.944;
+  text-align: center;
+  position: absolute;
+  left: 1274px;
+  top: 2069.545px;
+  z-index: 230;
+}
+.services-part3-text2{
+  font-size: 14px;
+  color: rgb(119, 119, 119);
+  line-height: 1.714;
+  text-align: center;
+  position: absolute;
+  left: 1171.593px;
+  top: 2106.365px;
+  width: 330px;
+  height: 62px;
+  z-index: 229;
+}
+.line {
+  background-color: rgb(238, 238, 238);
+  position: absolute;
+  left: -5px;
+  top: 1885px;
+  width: 1920px;
+  height: 1px;
+  z-index: 226;
+}
+.services-bg{
+  background-color: rgb(252, 252, 252);
+  position: absolute;
+  left: 1px;
+  top: 1884px;
+  width: 1920px;
+  height: 362px;
+  z-index: 225;
+}
